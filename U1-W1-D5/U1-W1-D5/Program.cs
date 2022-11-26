@@ -10,6 +10,7 @@ namespace U1_W1_D5
     {
         static void Main(string[] args)
         {
+            Contribuente.Tasse();          
         }
     }
 }

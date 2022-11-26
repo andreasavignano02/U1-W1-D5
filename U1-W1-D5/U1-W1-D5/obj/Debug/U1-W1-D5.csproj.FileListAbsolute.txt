@@ -1,0 +1,8 @@
+C:\Users\and\OneDrive\Desktop\esercizi in generale\esercizi con cs\U1-W1-D5\U1-W1-D5\U1-W1-D5\bin\Debug\U1-W1-D5.exe.config
+C:\Users\and\OneDrive\Desktop\esercizi in generale\esercizi con cs\U1-W1-D5\U1-W1-D5\U1-W1-D5\bin\Debug\U1-W1-D5.exe
+C:\Users\and\OneDrive\Desktop\esercizi in generale\esercizi con cs\U1-W1-D5\U1-W1-D5\U1-W1-D5\bin\Debug\U1-W1-D5.pdb
+C:\Users\and\OneDrive\Desktop\esercizi in generale\esercizi con cs\U1-W1-D5\U1-W1-D5\U1-W1-D5\obj\Debug\U1-W1-D5.csproj.AssemblyReference.cache
+C:\Users\and\OneDrive\Desktop\esercizi in generale\esercizi con cs\U1-W1-D5\U1-W1-D5\U1-W1-D5\obj\Debug\U1-W1-D5.csproj.SuggestedBindingRedirects.cache
+C:\Users\and\OneDrive\Desktop\esercizi in generale\esercizi con cs\U1-W1-D5\U1-W1-D5\U1-W1-D5\obj\Debug\U1-W1-D5.csproj.CoreCompileInputs.cache
+C:\Users\and\OneDrive\Desktop\esercizi in generale\esercizi con cs\U1-W1-D5\U1-W1-D5\U1-W1-D5\obj\Debug\U1-W1-D5.exe
+C:\Users\and\OneDrive\Desktop\esercizi in generale\esercizi con cs\U1-W1-D5\U1-W1-D5\U1-W1-D5\obj\Debug\U1-W1-D5.pdb
